@@ -1,0 +1,12 @@
+{
+  "name": "vlsi_design-",
+  "displayName": "vlsi_design-",
+  "expo": {
+    "name": "vlsi_design-",
+    "slug": "vlsi_design-",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
